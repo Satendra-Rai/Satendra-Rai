@@ -2,8 +2,8 @@
  <br>
 <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mananbansal2002" alt="CoDiNg RocKs"  width="60%"/><br> 
   <br>
-<p>    <strong>B.Tech CSE student. <br>
-  Competitive Programmer :- <i>LeetCode Codeforces CodeChef</i> <br>
+<p>    <strong>B.Tech CSE Student. <br>
+  Competitive Programmer :- <i>LeetCode CodeForces CodeChef</i> <br>
   Front End Developer
 
 
